@@ -24,9 +24,15 @@
 - [x] `node test.js` ile sistem testleri çalıştırıldı (45/45 test BAŞARILI)
 - [x] İlk commit atıldı ve GitHub private reposuna push edildi
 
-**Sıradaki Adım (Faz 1 - Yapılandırma):**
-- [ ] `.env` oluşturulması ve API anahtarlarının (Gemini/OpenAI vb.) tanımlanması
-- [ ] `npm run walkthrough` ile ilk kurulum sihirbazının çalıştırılması ve YouTube yetkilendirmesi
+**Faz 1 (Yapılandırma & Kanal Bağlantısı) Başarıyla Tamamlandı:**
+- [x] `.env` oluşturuldu ve Gemini API anahtarı yapılandırıldı
+- [x] YouTube OAuth kimlik doğrulaması tamamlandı
+- [x] Bağlanan Kanal Doğrulandı: **Akgün** (`@akgun-v9h`)
+- [x] `tokens.json` ve `credentials.json` oluşturuldu (gitignored)
+
+**Sıradaki Adım (Faz 2 - İlk Test Videosu & Dashboard):**
+- [ ] İlk deneme videosunun yerelde üretilmesi (Gemini senaryo + görsel + seslendirme + montaj)
+- [ ] Dashboard üzerinden üretim aşamalarının incelenmesi
 
 ## Kalıcı Çalışma Kuralları
 
