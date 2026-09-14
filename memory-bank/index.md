@@ -15,6 +15,7 @@ Bu Memory Bank, AgentTube (youtube-automation-agent) fork'unun Mehmet'in kendi Y
 | [techContext.md](techContext.md) | Teknoloji yığını, klasör yapısı ve sistem mimari bilgileri | Teknik detaylar ve mimari yapı incelenirken |
 | [securityContext.md](securityContext.md) | API anahtarları, YouTube OAuth kimlik bilgileri ve gizlilik kuralları | API entegrasyonu, credential yönetimi veya git commit öncesi |
 | [decisions.md](decisions.md) | Alınan mimari ve süreç kararları, gerekçeleri ve durumları | Yeni bir karar almadan önce veya geçmiş kararları incelemek için |
+| [runbook.md](runbook.md) | Mehmet için sade dille hazırlanmış komut ve kullanım kılavuzu | Web panelini açmadan, komut çalıştırmadan veya süreç akışını işletmeden önce |
 
 ## Tek-Kaynak İlkesi
 
@@ -29,6 +30,6 @@ Aşağıdaki konular memory-bank içinde kopyalanmaz. İlgili bilgilerin tek kay
 
 ## Okuma Sıraları
 
-1. **Yeni Oturum Başlangıcı:** `activeContext.md` → `projectbrief.md`
+1. **Yeni Oturum Başlangıcı:** `activeContext.md` → `runbook.md`
 2. **Kod/Uygulama İşi:** `activeContext.md` → `securityContext.md` → `techContext.md`
 3. **Planlama / Karar Alma:** `activeContext.md` → `decisions.md` → `projectbrief.md`
